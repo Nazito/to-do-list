@@ -37,7 +37,7 @@ class AddTodoComponent extends Component {
 				</button>
 				<input
 					className="header__input"
-				placeholder="Введите текст для поиска"
+				placeholder="What needs to be done?"
 				value={this.state.value}
 				onChange={this.handleChange.bind(this)}
 				onKeyPress={this.addItem.bind(this)}
