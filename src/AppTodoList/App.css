@@ -1,0 +1,14 @@
+.page {
+  -webkit-font-smoothing: antialiased;
+	cursor: default;
+	display: block;
+	max-width: 550px;
+	width: 100%;
+	background: #fff;
+	margin: 30vh auto auto;
+	position: relative;
+	color: #333333;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+
